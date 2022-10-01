@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar\Case4\bin\Debug\net6.0\Case4.exe
+C:\Users\User\Desktop\Seminar\Case4\bin\Debug\net6.0\Case4.deps.json
+C:\Users\User\Desktop\Seminar\Case4\bin\Debug\net6.0\Case4.runtimeconfig.json
+C:\Users\User\Desktop\Seminar\Case4\bin\Debug\net6.0\Case4.dll
+C:\Users\User\Desktop\Seminar\Case4\bin\Debug\net6.0\Case4.pdb
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.dll
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\refint\Case4.dll
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.pdb
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\Case4.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar\Case4\obj\Debug\net6.0\ref\Case4.dll
